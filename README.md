@@ -1,2 +1,2 @@
 
-.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+College Project for SemesterII 
